@@ -1,1 +1,1 @@
-# graph_search_algorithms
+# A* BFS and DFS alogrithms implemented for searching mazes, graphs etc.
