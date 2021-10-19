@@ -1,1 +1,1 @@
-# A* BFS and DFS alogrithms implemented for searching mazes, graphs etc.
+# A* BFS and DFS algorithms implemented for searching mazes, graphs etc.
