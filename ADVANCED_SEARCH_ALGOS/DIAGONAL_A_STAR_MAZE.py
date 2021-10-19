@@ -5,7 +5,7 @@ MOVES = ((-1, -1), (-1, 0), (-1, 1), (0, -1), (0, 1), (1, -1), (1, 0), (1, 1))
 def diagonal_distance(cell, goal):
     dx = abs(cell[0] - goal[0])
     dy = abs(cell[1] - goal[1])
-    return 1*(dx**2 + dy**2)**.5
+    return (dx**2 + dy**2)**.5
 
 def start_end_pos(wires):
     for i,x in enumerate(wires):
